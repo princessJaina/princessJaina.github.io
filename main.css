@@ -1,0 +1,21 @@
+body{
+    background-color: aliceblue !important
+}
+
+h2{color: darksalmon}
+
+.list{
+    color: chocolate    
+}
+
+.btn-a {
+   background: lightskyblue;
+    transition: 1s;
+    height: 40px;
+    width: 120px;
+}
+.btn-a:hover{
+    background: cornflowerblue;
+
+     
+}
